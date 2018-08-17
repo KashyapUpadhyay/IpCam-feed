@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kashyap\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        revision="26.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-24.0.0-f79b1e88b268354b25c1bb2f2942c351d22613da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\.android\build-cache\2626a277b7fb7b9c2448fc4a3d2037524b30b9ac\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7791d0a92a019efd4588d685413b8f2de6ec9d89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\.android\build-cache\73b61c991e4cc0dbfe492570003aa014a3a0e9dd\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-edf7be13ed1d6a5a5477309ab44ef9e9d81f7922.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\.android\build-cache\4f0ee88861d4982a43c06d645b4b887e343a02f2\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-dc4dfff4024174b0abb23b58a6d341d272a1f164.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\.android\build-cache\1a550b91736a23c2a3b3defad0cf1af0f28088ae\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="4473c9d04e362129e9a1846864bd18445b3006f6">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-96dd86d03cecb93632dfdf1c1b4d03f7fb584895.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\.android\build-cache\73b61c991e4cc0dbfe492570003aa014a3a0e9dd\output\jars\libs\internal_impl-24.0.0.jar"
+        revision="26.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.0.0-dbcb458efdb2e2b0043685d9c54c9b5d428cdd72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\.android\build-cache\9d4f7cda27077fe3669ffdb4c15e46586554956d\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-052cc796b80fd8e594d28880c6e0b653a9ad5f2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\AppData\Local\Android\Sdk\platforms\android-26\android.jar"
+        revision="26.0.2"
+        sha1="18eaee6ff2a1c15c603daafb41277ea9376f30b5">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-e11fd41eebf3dcfc2b9983ac88c2b604d47753b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\.android\build-cache\32c63dd3212c386247bcc635aaf14f5d456b6ae8\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-76b5323f48285fdf6aaae28b29be7d6ba01b7d3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        revision="26.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\rxjava-1.1.6-7d51d6083756d3c0058a6812e6487048c05de388.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kashyap\AppData\Local\Android\Sdk\platforms\android-26\optional\org.apache.http.legacy.jar"
+        revision="26.0.2"
+        sha1="d5b8c556427a60ed5f7f0abc415555de7bbba1ad">
+        <dex dex="C:\MjpegDemo\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-9fbbc695d287bd5b44e7f29157cadd557a117dd8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.niqdev:mjpeg-view-0.3.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/1a550b91736a23c2a3b3defad0cf1af0f28088ae/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1a550b91736a23c2a3b3defad0cf1af0f28088ae/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.niqdev/mjpeg-view/0.3.3/8a589f837314a857fd5b4047ffe7741668026ad3/mjpeg-view-0.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
